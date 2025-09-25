@@ -1,4 +1,4 @@
-import Alert from './alert.js';
+import Alert from './Alert.js';
 
 document.addEventListener('DOMContentLoaded', async () => {
   const alert = new Alert();
